@@ -1,0 +1,13 @@
+﻿body {
+    background-image: url('../../images/blues.jpg');
+    color: white;
+    background-size: 100%;
+}
+
+.post {
+    background-color: white;
+    opacity: .90;
+}
+h2 {
+    color: #00937F;
+}
